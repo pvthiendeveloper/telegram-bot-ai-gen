@@ -1,0 +1,14 @@
+- Tải và giải nén thư mục (telegram-bot-ai-gen)
+  - https://github.com/pvthiendeveloper/telegram-bot-ai-gen
+- Deploy lên Railway (https://railway.com/)
+- Cài đặt môi trường
+  - AWS console: https://aws.amazon.com/console/
+- Import workflow và google sheets
+- Tạo các credentials
+  - Telegram
+  - Google Sheets
+  - Leonardo ai (https://app.leonardo.ai/)
+  - Kling ai (https://piapi.ai/)
+  - Youtube
+- Test thử
+- Chạy workflow
